@@ -12,6 +12,7 @@ I was successful in creating a comfortable VR experience for my players. The use
 Click [HERE](https://youtu.be/nOCuFyaqBsw) for a mobile playthrough video.
 
 
+Persona:
 ![Persona](Documentation/Persona.png)
 
 
